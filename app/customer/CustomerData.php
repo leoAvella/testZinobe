@@ -13,9 +13,9 @@ use GuzzleHttp\Client;
 
 class CustomerData {
 
-    function getData(){
+    function getData($apiUrl){
         $client = new Client();
-        $req = $client->request('GET', 'http://www.mocky.io/v2/5d9f39263000005d005246ae?mocky-delay=10s');
+        $req = $client->request('GET', $apiUrl);
         $res = json_decode($req->getBody()->getContents(), true);
         return $res;
     }

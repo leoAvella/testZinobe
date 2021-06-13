@@ -6,10 +6,11 @@ $cap = new Capsule;
 
 $cap->addConnection([
     'driver'     => 'mysql',
-    'host'       => 'localhost',
-    'database'   => 'localhost',
-    'username'   => 'root',
-    'password'   => '192.168.0.36',
+    'host'       => '192.168.0.7',
+    //'host'       => 'localhost',
+    'database'   => 'zinobe',
+    'username'   => 'zinobe',
+    'password'   => 'zinobe',
     'charset'    => 'utf8',
     'collation'  => 'utf8_unicode_ci',
     'prefix'     => '',

@@ -12,4 +12,9 @@ use Illuminate\Database\Eloquent\Model;
 
 class User extends Model {
 
+    protected $fillable = ["id","job_title", "email", "first_name", "last_name", "document", "phone_number", "country", "state", "city", "birth_date", "password"];
+
+
+
+
 }
