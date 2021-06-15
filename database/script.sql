@@ -1,7 +1,13 @@
 CREATE DATABASE zinobe;
 
+CREATE USER 'zinobe'@'localhost' IDENTIFIED BY 'zinobe';
+GRANT ALL PRIVILEGES ON * . * TO 'zinobe'@'localhost';
+
 use zinobe;
 SET sql_mode = '';
+
+
+
 
 CREATE TABLE users (
     userid int NOT NULL AUTO_INCREMENT,
