@@ -2,328 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9b52e3f-066b-4eac-bfd6-4ad1c0fafebc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/doctrine/inflector" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/eftec/bladeone" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/container" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/events" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/filesystem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/view" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jenssegers/blade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/latte/latte" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/http-message" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/simple-cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/debug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/finder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/blade.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/zinobe.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Entities/User.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/notFound.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/register.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/customer/CustomerData.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/notfound.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/register.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/templates/main.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bin/upgrade-carbon" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/.php_cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/Dockerfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/UPGRADING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Client.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/ClientInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/CookieJarInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/SetCookie.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/BadResponseException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ClientException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ConnectException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/GuzzleException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/InvalidArgumentException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/SeekException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ServerException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/TransferException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlFactoryInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlMultiHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/EasyHandle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/MockHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/HandlerStack.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/MessageFormatter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Middleware.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Pool.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RequestOptions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RetryMiddleware.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/TransferStats.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/UriTemplate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/functions_include.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Capsule/Manager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Concerns/BuildsQueries.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Concerns/ManagesTransactions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Connection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/ConnectionInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/ConnectionResolver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/ConnectionResolverInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Connectors/ConnectionFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Connectors/Connector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Connectors/ConnectorInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Connectors/MySqlConnector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Connectors/PostgresConnector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Connectors/SQLiteConnector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Connectors/SqlServerConnector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Factories/FactoryMakeCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Factories/stubs/factory.stub" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Migrations/BaseCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Migrations/FreshCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Migrations/InstallCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Migrations/MigrateCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Migrations/MigrateMakeCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Migrations/RefreshCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Migrations/ResetCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Migrations/RollbackCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Migrations/StatusCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Seeds/SeedCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Seeds/SeederMakeCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Seeds/stubs/seeder.stub" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/DatabaseManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/DatabaseServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/DetectsDeadlocks.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/DetectsLostConnections.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Builder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Collection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Concerns/GuardsAttributes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Concerns/HasAttributes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Concerns/HasEvents.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Concerns/HasGlobalScopes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Concerns/HasTimestamps.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Concerns/HidesAttributes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Concerns/QueriesRelationships.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Factory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/FactoryBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/JsonEncodingException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/MassAssignmentException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/ModelNotFoundException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/QueueEntityResolver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/RelationNotFoundException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/BelongsTo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/BelongsToMany.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/Concerns/InteractsWithPivotTable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/Concerns/SupportsDefaultModels.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/HasMany.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/HasManyThrough.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/HasOne.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/HasOneOrMany.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/MorphMany.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/MorphOne.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/MorphOneOrMany.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/MorphPivot.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/MorphTo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/MorphToMany.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/Pivot.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/Relation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Scope.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/SoftDeletes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/SoftDeletingScope.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Events/ConnectionEvent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Events/QueryExecuted.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Events/StatementPrepared.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Events/TransactionBeginning.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Events/TransactionCommitted.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Events/TransactionRolledBack.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Grammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/MigrationServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Migrations/DatabaseMigrationRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Migrations/Migration.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Migrations/MigrationCreator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Migrations/MigrationRepositoryInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Migrations/Migrator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Migrations/stubs/blank.stub" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Migrations/stubs/create.stub" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Migrations/stubs/update.stub" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/MySqlConnection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/PostgresConnection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Builder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Expression.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Grammars/Grammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Grammars/MySqlGrammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Grammars/PostgresGrammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Grammars/SQLiteGrammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Grammars/SqlServerGrammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/JoinClause.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/JsonExpression.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Processors/MySqlProcessor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Processors/PostgresProcessor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Processors/Processor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Processors/SQLiteProcessor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Processors/SqlServerProcessor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/QueryException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/SQLiteConnection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/Blueprint.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/Builder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/Grammars/ChangeColumn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/Grammars/Grammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/Grammars/MySqlGrammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/Grammars/PostgresGrammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/Grammars/RenameColumn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/Grammars/SQLiteGrammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/Grammars/SqlServerGrammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/MySqlBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/PostgresBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/SQLiteBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/SqlServerBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Seeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/SqlServerConnection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kylekatarnls/update-helper/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kylekatarnls/update-helper/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kylekatarnls/update-helper/src/UpdateHelper/ComposerPlugin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kylekatarnls/update-helper/src/UpdateHelper/NotUpdateInterfaceInstanceException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kylekatarnls/update-helper/src/UpdateHelper/UpdateHelper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kylekatarnls/update-helper/src/UpdateHelper/UpdateHelperInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/bin/upgrade-carbon" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/bin/upgrade-carbon.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/CarbonInterval.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/CarbonPeriod.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidDateException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/af.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ar_Shakl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/az.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/bg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/bn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/bs_BA.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ca.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/cs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/cy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/da.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/de.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/dv_MV.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/el.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/en.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/eo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/es.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/et.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/eu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/gl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/gu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/he.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/hi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/hr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/hu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/hy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/id.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/is.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/it.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ja.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ka.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/kk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/km.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ko.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/lt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/lv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/mk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/mn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ms.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/my.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ne.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/nl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/no.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/oc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/pl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ps.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/pt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/pt_BR.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ro.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ru.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sq.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr_Cyrl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr_Cyrl_ME.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr_Latn_ME.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr_ME.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sw.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/th.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/tr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/uk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ur.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/uz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/vi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/zh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/zh_TW.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Laravel/ServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Translator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Upgrade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/JsonSerializable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/container/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/container/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/container/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/container/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/container/src/ContainerExceptionInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/container/src/ContainerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/container/src/NotFoundExceptionInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/ralouphie/getallheaders/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/ralouphie/getallheaders/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/ralouphie/getallheaders/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/ralouphie/getallheaders/src/getallheaders.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation-contracts/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation-contracts/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation-contracts/LocaleAwareInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation-contracts/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation-contracts/Test/TranslatorTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation-contracts/TranslatorInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation-contracts/TranslatorTrait.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation-contracts/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -335,23 +14,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CustomerData.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/customer/CustomerData.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding>
-                <element signature="e#6#96#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Entities/User.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -360,20 +27,31 @@
       <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/register.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="75">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
               <folding>
-                <element signature="e#6#96#0#PHP" expanded="true" />
+                <marker date="1623770500382" expanded="true" signature="101:136" ph="..." />
+                <marker date="1623770500382" expanded="true" signature="102:136" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.json">
+      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/register.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            <state relative-caret-position="330">
+              <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -388,22 +66,43 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>5d9f39263000005d005246ae</find>
+      <find>saveUser</find>
+      <find>msg-password</find>
+      <find>password</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resources/views/register.html" />
         <option value="$PROJECT_DIR$/app/controllers/UserController.php" />
         <option value="$PROJECT_DIR$/resources/views/notfound.php" />
         <option value="$PROJECT_DIR$/app/controllers/notFound.php" />
-        <option value="$PROJECT_DIR$/resources/views/templates/main.php" />
-        <option value="$PROJECT_DIR$/resources/views/register.php" />
-        <option value="$PROJECT_DIR$/public/index.php" />
         <option value="$PROJECT_DIR$/composer.json" />
-        <option value="$PROJECT_DIR$/app/controllers/register.php" />
+        <option value="$PROJECT_DIR$/resources/views/register.html" />
+        <option value="$PROJECT_DIR$/resources/views/templates/main.php" />
         <option value="$PROJECT_DIR$/app/customer/CustomerData.php" />
+        <option value="$PROJECT_DIR$/app/Entities/User.php" />
+        <option value="$PROJECT_DIR$/resources/views/register.php" />
+        <option value="$PROJECT_DIR$/app/customer/Auth.php" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/resources/views/login.php" />
+        <option value="$PROJECT_DIR$/database/script.sql" />
+        <option value="$PROJECT_DIR$/resources/views/users.php" />
+        <option value="$PROJECT_DIR$/app/controllers/login.php" />
+        <option value="$PROJECT_DIR$/app/controllers/register.php" />
+        <option value="$PROJECT_DIR$/app/controllers/users.php" />
+        <option value="$PROJECT_DIR$/config/database.php" />
       </list>
     </option>
   </component>
@@ -434,8 +133,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -448,14 +145,100 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zinobe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zinobe" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zinobe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zinobe" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zinobe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zinobe" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zinobe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zinobe" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zinobe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zinobe" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views" />
+      <recent name="$PROJECT_DIR$/app/controllers" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -550,26 +333,60 @@
       <updated>1623363500922</updated>
       <workItem from="1623363502463" duration="1381000" />
       <workItem from="1623368137266" duration="9835000" />
-      <workItem from="1623425656727" duration="1409000" />
+      <workItem from="1623425656727" duration="10517000" />
+      <workItem from="1623517551358" duration="5596000" />
+      <workItem from="1623534832672" duration="10271000" />
+      <workItem from="1623591481475" duration="9098000" />
+      <workItem from="1623720476661" duration="194000" />
+      <workItem from="1623764128826" duration="612000" />
     </task>
+    <task id="LOCAL-00001" summary="estructura inicial proyecto">
+      <created>1623433293833</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623433293833</updated>
+    </task>
+    <task id="LOCAL-00002" summary="estructura inicial proyecto">
+      <created>1623433483885</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623433483885</updated>
+    </task>
+    <task id="LOCAL-00003" summary="consulta de usuarios">
+      <created>1623613624890</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623613624890</updated>
+    </task>
+    <task id="LOCAL-00004" summary="cambio de host base de datos">
+      <created>1623770475019</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623770475019</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12625000" />
+    <option name="totallyTimeSpent" value="47504000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36520585" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3678619" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -584,6 +401,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="estructura inicial proyecto" />
+    <MESSAGE value="consulta de usuarios" />
+    <MESSAGE value="cambio de host base de datos" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambio de host base de datos" />
   </component>
   <component name="WindowStateProjectService">
     <state width="205" height="78" key="Git.Branch.Popup" />
@@ -602,6 +425,249 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/controllers/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding>
+            <marker date="1623770500382" expanded="true" signature="101:136" ph="..." />
+            <marker date="1623770500382" expanded="true" signature="102:136" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="78" lean-forward="false" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="125" column="31" lean-forward="true" selection-start-line="125" selection-start-column="31" selection-end-line="125" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/script.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Entities/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="30" column="137" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="137" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="2" lean-forward="false" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+          <folding>
+            <marker date="1623770500382" expanded="true" signature="101:136" ph="..." />
+            <marker date="1623770500382" expanded="true" signature="102:136" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="75" column="49" lean-forward="false" selection-start-line="75" selection-start-column="49" selection-end-line="75" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/script.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/customer/CustomerData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Entities/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="39" column="33" lean-forward="false" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="36" lean-forward="false" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/script.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/templates/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <marker date="1623770500382" expanded="true" signature="101:136" ph="..." />
+            <marker date="1623770500382" expanded="true" signature="102:136" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/customer/CustomerData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Entities/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="54" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/templates/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -624,20 +690,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/notFound.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding>
-            <element signature="e#6#96#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -646,56 +702,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="162" column="5" lean-forward="false" selection-start-line="162" selection-start-column="5" selection-end-line="162" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="79" lean-forward="false" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/templates/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/customer/CustomerData.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#96#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Entities/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-          <folding>
-            <element signature="e#6#96#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -703,7 +717,104 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/templates/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/customer/CustomerData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/customer/Auth.php" />
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="32" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/script.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Entities/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="78" lean-forward="false" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding>
+            <marker date="1623770500382" expanded="true" signature="101:136" ph="..." />
+            <marker date="1623770500382" expanded="true" signature="102:136" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
