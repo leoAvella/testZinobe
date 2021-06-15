@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "311bfdea8e7cb0ff4b804faa32b04838",
+    "content-hash": "45ae10ed4609c86edcf19dfcec051cad",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -83,60 +83,6 @@
                 "words"
             ],
             "time": "2021-04-16 17:34:40"
-        },
-        {
-            "name": "eftec/bladeone",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/EFTEC/BladeOne.git",
-                "reference": "4ded13d0af3c0960a24c056bb32a1050f17c9820"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/EFTEC/BladeOne/zipball/4ded13d0af3c0960a24c056bb32a1050f17c9820",
-                "reference": "4ded13d0af3c0960a24c056bb32a1050f17c9820",
-                "shasum": ""
-            },
-            "require": {
-                "ext-json": "*",
-                "php": ">=5.6"
-            },
-            "require-dev": {
-                "friendsofphp/php-cs-fixer": "^2.16.1",
-                "phpunit/phpunit": "^5.7",
-                "squizlabs/php_codesniffer": "^3.5.4"
-            },
-            "suggest": {
-                "eftec/bladeonehtml": "Extension to create forms",
-                "ext-mbstring": "This extension is used if it's active"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "eftec\\bladeone\\": "lib/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Jorge Patricio Castro Castillo",
-                    "email": "jcastro@eftec.cl"
-                }
-            ],
-            "description": "The standalone version Blade Template Engine from Laravel in a single php file",
-            "homepage": "https://github.com/EFTEC/BladeOne",
-            "keywords": [
-                "blade",
-                "php",
-                "template",
-                "templating",
-                "view"
-            ],
-            "time": "2021-04-26 12:29:38"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -768,83 +714,6 @@
             "time": "2020-04-07T20:44:10+00:00"
         },
         {
-            "name": "latte/latte",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/nette/latte.git",
-                "reference": "39c62d20a4c36a60835da6a0ed2d1df76979a20a"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/nette/latte/zipball/39c62d20a4c36a60835da6a0ed2d1df76979a20a",
-                "reference": "39c62d20a4c36a60835da6a0ed2d1df76979a20a",
-                "shasum": ""
-            },
-            "require": {
-                "ext-json": "*",
-                "ext-tokenizer": "*",
-                "php": ">=7.1 <8.1"
-            },
-            "conflict": {
-                "nette/application": "<3.0"
-            },
-            "require-dev": {
-                "nette/php-generator": "^3.3.4",
-                "nette/tester": "~2.0",
-                "nette/utils": "^3.0",
-                "phpstan/phpstan": "^0.12",
-                "tracy/tracy": "^2.3"
-            },
-            "suggest": {
-                "ext-fileinfo": "to use filter |datastream",
-                "ext-iconv": "to use filters |reverse, |substring",
-                "ext-mbstring": "to use filters like lower, upper, capitalize, ...",
-                "nette/php-generator": "to use tag {templatePrint}",
-                "nette/utils": "to use filter |webalize"
-            },
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "3.0-dev"
-                }
-            },
-            "autoload": {
-                "classmap": [
-                    "src/"
-                ]
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "BSD-3-Clause",
-                "GPL-2.0-only",
-                "GPL-3.0-only"
-            ],
-            "authors": [
-                {
-                    "name": "David Grudl",
-                    "homepage": "https://davidgrudl.com"
-                },
-                {
-                    "name": "Nette Community",
-                    "homepage": "https://nette.org/contributors"
-                }
-            ],
-            "description": "☕ Latte: the intuitive and fast template engine for those who want the most secure PHP sites. Introduces context-sensitive escaping.",
-            "homepage": "https://latte.nette.org",
-            "keywords": [
-                "context-sensitive",
-                "engine",
-                "escaping",
-                "html",
-                "nette",
-                "security",
-                "template",
-                "twig"
-            ],
-            "time": "2021-06-04 13:05:35"
-        },
-        {
             "name": "nesbot/carbon",
             "version": "1.39.1",
             "source": {
@@ -1434,9 +1303,7 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "jenssegers/blade": 20,
-        "latte/latte": 20,
-        "eftec/bladeone": 20
+        "jenssegers/blade": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,

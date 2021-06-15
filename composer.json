@@ -5,9 +5,7 @@
     "require": {
         "illuminate/database": "5.5",
         "guzzlehttp/guzzle": "6.5.2",
-        "jenssegers/blade": "dev-master",
-        "latte/latte": "^3.0@dev",
-        "eftec/bladeone": "dev-master"
+        "jenssegers/blade": "dev-master"
     },
     "autoload": {
         "psr-4": {
